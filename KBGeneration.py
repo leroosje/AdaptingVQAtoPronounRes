@@ -14,9 +14,6 @@ import sys
 import select
 
 i = 1
-question = ""
-pronoun = ""
-clause = ""
 file = open("UTDallasDataset.txt", "r")
 formattedfile = file.read().splitlines()
 
