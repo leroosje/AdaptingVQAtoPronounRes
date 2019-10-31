@@ -25,7 +25,9 @@ with open("UTDallasCSV.csv", "w", encoding='UTF8') as csv_file:
             question = line
         if i % 5 == 2:
             pronoun = line
-            clause = question[question.index(pronoun) + len(pronoun):-1]
+            print(pronoun)
+            print(question)
+            clause = question[question.index(" " + pronoun) + len(" " + pronoun):-1]
         if i % 5 == 3:
             answerchoices = line
         if i % 5 == 4:
@@ -43,8 +45,29 @@ with open("UTDallasCSV.csv", "w", encoding='UTF8') as csv_file:
             if answer == answer2:
                 answerbit = "1"
 
-            writer.writerow([question, q1, option1, option2, answer, answerbit])
-            writer.writerow([question, q2, option1, option2, answer, answerbit])
+            row1 = [question, q1, option1, option2, answer, answerbit]
+            row2 = [question, q2, option1, option2, answer, answerbit]
+
+            j = 0
+            for item in row1:
+                filteredstring = ""
+                for word in item.split():
+                    if not word.lower() == "the":
+                        filteredstring = filteredstring + word.lower() + " "
+                row1[j] = filteredstring
+                j += 1 #sorry for the java-ism, not an expert in python
+
+            j = 0
+            for item in row2:
+                filteredstring = ""
+                for word in item.split():
+                    if not word.lower() == "the":
+                        filteredstring = filteredstring + word.lower() + " "
+                row2[j] = filteredstring
+                j += 1  # sorry for the java-ism, not an expert in python
+
+            writer.writerow(row1)
+            writer.writerow(row2)
         i += 1
 
 
