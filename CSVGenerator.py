@@ -19,7 +19,7 @@ formattedfile = file.read().splitlines()
 
 with open("UTDallasCSV.csv", "w", encoding='UTF8') as csv_file:
     writer = csv.writer(csv_file, delimiter=',')
-
+    writer.writerow(["Knowledge Base", "Question", "Option 1", "Option 2", "Actual Answer", "Bit Representation"])
     for line in formattedfile:
         if i % 5 == 1:
             question = line
@@ -33,8 +33,18 @@ with open("UTDallasCSV.csv", "w", encoding='UTF8') as csv_file:
         if i % 5 == 0: #Totally arbitrary condition to print questions.
             q1 = "What does " + pronoun + " refer to?"
             q2 = "What" + clause + "?"
-            writer.writerow([question, q1, answerchoices, answer])
-            writer.writerow([question, q2, answerchoices, answer])
+
+            answer1, answer2 = answerchoices.split(',')
+            option1 = answer1 + clause
+            option2 = answer2 + clause
+
+            if answer == answer1:
+                answerbit = "0"
+            if answer == answer2:
+                answerbit = "1"
+
+            writer.writerow([question, q1, option1, option2, answer, answerbit])
+            writer.writerow([question, q2, option1, option2, answer, answerbit])
         i += 1
 
 
