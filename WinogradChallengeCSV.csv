@@ -1,0 +1,569 @@
+Knowledge Base,Question,Option 1,Option 2,Actual Answer,Bit Representation
+city councilmen refused demonstrators a permit because they feared violence. ,what does they refer to? ,they refers to city councilmen ,they refers to demonstrators ,city councilmen ,0 
+city councilmen refused demonstrators a permit because they feared violence. ,what feared violence? ,they refers to city councilmen ,they refers to demonstrators ,city councilmen ,0 
+city councilmen refused demonstrators a permit because they advocated violence. ,what does they refer to? ,they refers to city councilmen ,they refers to demonstrators ,demonstrators ,1 
+city councilmen refused demonstrators a permit because they advocated violence. ,what advocated violence? ,they refers to city councilmen ,they refers to demonstrators ,demonstrators ,1 
+trophy doesn't fit into brown suitcase because it is too large. ,what does it refer to? ,it refers to trophy ,it refers to suitcase ,demonstrators ,1 
+trophy doesn't fit into brown suitcase because it is too large. ,what is too large? ,it refers to trophy ,it refers to suitcase ,demonstrators ,1 
+trophy doesn't fit into brown suitcase because it is too small. ,what does it refer to? ,it refers to trophy ,it refers to suitcase ,demonstrators ,1 
+trophy doesn't fit into brown suitcase because it is too small. ,what is too small? ,it refers to trophy ,it refers to suitcase ,demonstrators ,1 
+joan made sure to thank susan for all help she had recieved. ,what does she refer to? ,she refers to joan ,she refers to susan ,demonstrators ,1 
+joan made sure to thank susan for all help she had recieved. ,what had received? ,she refers to joan ,she refers to susan ,demonstrators ,1 
+joan made sure to thank susan for all help she had given. ,what does she refer to? ,she refers to joan ,she refers to susan ,demonstrators ,1 
+joan made sure to thank susan for all help she had given. ,what had given? ,she refers to joan ,she refers to susan ,demonstrators ,1 
+"paul tried to call george on phone, but he wasn't successful. ",what does he refer to? ,he refers to paul ,he refers to george ,demonstrators ,1 
+"paul tried to call george on phone, but he wasn't successful. ",what wasn't successful.? ,he refers to paul ,he refers to george ,demonstrators ,1 
+"paul tried to call george on phone, but he wasn't available. ",what does he refer to? ,he refers to paul ,he refers to george ,demonstrators ,1 
+"paul tried to call george on phone, but he wasn't available. ",what wasn't available.? ,he refers to paul ,he refers to george ,demonstrators ,1 
+"lawyer asked witness a question, but he was reluctant to repeat it. ",what does he refer to? ,he refers to lawyer ,he refers to witness ,demonstrators ,1 
+"lawyer asked witness a question, but he was reluctant to repeat it. ",what was reluctant? ,he refers to lawyer ,he refers to witness ,demonstrators ,1 
+"lawyer asked witness a question, but he was reluctant to answer it. ",what does he refer to? ,he refers to lawyer ,he refers to witness ,demonstrators ,1 
+"lawyer asked witness a question, but he was reluctant to answer it. ",what was reluctant? ,he refers to lawyer ,he refers to witness ,demonstrators ,1 
+delivery truck zoomed by school bus because it was going so fast. ,what does it refer to? ,it refers to delivery truck ,it refers to school bus ,demonstrators ,1 
+delivery truck zoomed by school bus because it was going so fast. ,what was going so fast.? ,it refers to delivery truck ,it refers to school bus ,demonstrators ,1 
+delivery truck zoomed by school bus because it was going so slow. ,what does it refer to? ,it refers to delivery truck ,it refers to school bus ,demonstrators ,1 
+delivery truck zoomed by school bus because it was going so slow. ,what was going so slow.? ,it refers to delivery truck ,it refers to school bus ,demonstrators ,1 
+frank felt vindicated when his longtime rival bill revealed that he was winner of competition. ,what does he refer to? ,he refers to frank ,he refers to bill ,demonstrators ,1 
+frank felt vindicated when his longtime rival bill revealed that he was winner of competition. ,what was winner? ,he refers to frank ,he refers to bill ,demonstrators ,1 
+frank felt crushed when his longtime rival bill revealed that he was winner of competition. ,what does he refer to? ,he refers to frank ,he refers to bill ,demonstrators ,1 
+frank felt crushed when his longtime rival bill revealed that he was winner of competition. ,what was winner? ,he refers to frank ,he refers to bill ,demonstrators ,1 
+man couldn't lift his son because he was so weak. ,what does he refer to? ,he refers to man ,he refers to son ,demonstrators ,1 
+man couldn't lift his son because he was so weak. ,what was so weak.? ,he refers to man ,he refers to son ,demonstrators ,1 
+man couldn't lift his son because he was so heavy. ,what does he refer to? ,he refers to man ,he refers to son ,demonstrators ,1 
+man couldn't lift his son because he was so heavy. ,what was so heavy.? ,he refers to man ,he refers to son ,demonstrators ,1 
+large ball crashed right through table because it was made of steel. ,what does it refer to? ,it refers to large ball ,it refers to table ,demonstrators ,1 
+large ball crashed right through table because it was made of steel. ,what was made of steel.? ,it refers to large ball ,it refers to table ,demonstrators ,1 
+large ball crashed right through table because it was made of styrofoam. ,what does it refer to? ,it refers to large ball ,it refers to table ,demonstrators ,1 
+large ball crashed right through table because it was made of styrofoam. ,what was made of styrofoam.? ,it refers to large ball ,it refers to table ,demonstrators ,1 
+john couldn't see stage with billy in front of him because he is so short. ,what does he refer to? ,he refers to john ,he refers to billy ,demonstrators ,1 
+john couldn't see stage with billy in front of him because he is so short. ,what is so short.? ,he refers to john ,he refers to billy ,demonstrators ,1 
+john couldn't see stage with billy in front of him because he is so tall. ,what does he refer to? ,he refers to john ,he refers to billy ,demonstrators ,1 
+john couldn't see stage with billy in front of him because he is so tall. ,what is so tall.? ,he refers to john ,he refers to billy ,demonstrators ,1 
+tom threw his schoolbag down to ray after he reached top of stairs. ,what does he refer to? ,he refers to tom ,he refers to ray ,tom ,0 
+tom threw his schoolbag down to ray after he reached top of stairs. ,what reached top of stairs.? ,he refers to tom ,he refers to ray ,tom ,0 
+tom threw his schoolbag down to ray after he reached bottom of stairs. ,what does he refer to? ,he refers to tom ,he refers to ray ,ray ,1 
+tom threw his schoolbag down to ray after he reached bottom of stairs. ,what reached bottom of stairs.? ,he refers to tom ,he refers to ray ,ray ,1 
+"although they ran at about same speed, sue beat sally because she had such a good start. ",what does she refer to? ,she refers to sue ,she refers to sally ,sue ,0 
+"although they ran at about same speed, sue beat sally because she had such a good start. ",what had such a good start.? ,she refers to sue ,she refers to sally ,sue ,0 
+"although they ran at about same speed, sue beat sally because she had such a bad start. ",what does she refer to? ,she refers to sue ,she refers to sally ,sally ,1 
+"although they ran at about same speed, sue beat sally because she had such a bad start. ",what had such a bad start.? ,she refers to sue ,she refers to sally ,sally ,1 
+sculpture rolled off shelf because it wasn't anchored. ,what does it refer to? ,it refers to sculpture ,it refers to shelf ,sculpture ,0 
+sculpture rolled off shelf because it wasn't anchored. ,what wasn't anchored.? ,it refers to sculpture ,it refers to shelf ,sculpture ,0 
+sculpture rolled off shelf because it wasn't level. ,what does it refer to? ,it refers to sculpture ,it refers to shelf ,shelf ,1 
+sculpture rolled off shelf because it wasn't level. ,what wasn't level.? ,it refers to sculpture ,it refers to shelf ,shelf ,1 
+sam's drawing was hung just above tina's and it did look much better with another one below it. ,what does it refer to? ,it refers to sam's drawing ,it refers to tina's drawing ,sam's drawing ,0 
+sam's drawing was hung just above tina's and it did look much better with another one below it. ,what did look much better? ,it refers to sam's drawing ,it refers to tina's drawing ,sam's drawing ,0 
+sam's drawing was hung just above tina's and it did look much better with another one above it. ,what does it refer to? ,it refers to sam's drawing ,it refers to tina's drawing ,tina's drawing ,1 
+sam's drawing was hung just above tina's and it did look much better with another one above it. ,what did look much better? ,it refers to sam's drawing ,it refers to tina's drawing ,tina's drawing ,1 
+anna did a lot better than her good friend lucy on test because she had studied so hard. ,what does she refer to? ,she refers to anna ,she refers to lucy ,anna ,0 
+anna did a lot better than her good friend lucy on test because she had studied so hard. ,what had studied so hard.? ,she refers to anna ,she refers to lucy ,anna ,0 
+anna did a lot worse than her good friend lucy on test because she had studied so hard. ,what does she refer to? ,she refers to anna ,she refers to lucy ,lucy ,1 
+anna did a lot worse than her good friend lucy on test because she had studied so hard. ,what had studied so hard.? ,she refers to anna ,she refers to lucy ,lucy ,1 
+firemen arrived after police because they were coming from so far away. ,what does they refer to? ,they refers to firemen ,they refers to police ,firemen ,0 
+firemen arrived after police because they were coming from so far away. ,what were coming from so far away.? ,they refers to firemen ,they refers to police ,firemen ,0 
+firemen arrived before police because they were coming from so far away. ,what does they refer to? ,they refers to firemen ,they refers to police ,police ,1 
+firemen arrived before police because they were coming from so far away. ,what were coming from so far away.? ,they refers to firemen ,they refers to police ,police ,1 
+frank was upset with tom because toaster he had bought from him didn't work. ,what does he refer to? ,he refers to frank ,he refers to tom ,frank ,0 
+frank was upset with tom because toaster he had bought from him didn't work. ,what had bought? ,he refers to frank ,he refers to tom ,frank ,0 
+frank was upset with tom because toaster he had sold him didn't work. ,what does he refer to? ,he refers to frank ,he refers to tom ,tom ,1 
+frank was upset with tom because toaster he had sold him didn't work. ,what had sold? ,he refers to frank ,he refers to tom ,tom ,1 
+jim yelled at kevin because he was so upset. ,what does he refer to? ,he refers to jim ,he refers to kevin ,jim ,0 
+jim yelled at kevin because he was so upset. ,what was so upset.? ,he refers to jim ,he refers to kevin ,jim ,0 
+jim comforted kevin because he was so upset. ,what does he refer to? ,he refers to jim ,he refers to kevin ,kevin ,1 
+jim comforted kevin because he was so upset. ,what was so upset.? ,he refers to jim ,he refers to kevin ,kevin ,1 
+"sack of potatoes had been placed above bag of flour, so it had to be moved first. ",what does it refer to? ,it refers to sack of potatoes ,it refers to bag of flour ,sack of potatoes ,0 
+"sack of potatoes had been placed above bag of flour, so it had to be moved first. ",what had to be moved first.? ,it refers to sack of potatoes ,it refers to bag of flour ,sack of potatoes ,0 
+"sack of potatoes had been placed below bag of flour, so it had to be moved first. ",what does it refer to? ,it refers to sack of potatoes ,it refers to bag of flour ,bag of flour ,1 
+"sack of potatoes had been placed below bag of flour, so it had to be moved first. ",what had to be moved first.? ,it refers to sack of potatoes ,it refers to bag of flour ,bag of flour ,1 
+pete envies martin although he is very successful. ,what does he refer to? ,he refers to pete ,he refers to martin ,pete ,0 
+pete envies martin although he is very successful. ,what is very successful.? ,he refers to pete ,he refers to martin ,pete ,0 
+pete envies martin because he is very successful. ,what does he refer to? ,he refers to pete ,he refers to martin ,martin ,1 
+pete envies martin because he is very successful. ,what is very successful.? ,he refers to pete ,he refers to martin ,martin ,1 
+"older students were bullying younger ones, so we punished them. ",what does we refer to? ,we refers to older students ,we refers to younger students ,older students ,0 
+"older students were bullying younger ones, so we punished them. ",what punished them? ,we refers to older students ,we refers to younger students ,older students ,0 
+"older students were bullying younger ones, so we rescued them. ",what does we refer to? ,we refers to older students ,we refers to younger students ,younger students ,1 
+"older students were bullying younger ones, so we rescued them. ",what rescued them? ,we refers to older students ,we refers to younger students ,younger students ,1 
+i poured water from bottle into cup until it was empty. ,what does it refer to? ,it refers to bottle ,it refers to cup ,bottle ,0 
+i poured water from bottle into cup until it was empty. ,what was empty? ,it refers to bottle ,it refers to cup ,bottle ,0 
+i poured water from bottle into cup until it was full. ,what does it refer to? ,it refers to bottle ,it refers to cup ,cup ,1 
+i poured water from bottle into cup until it was full. ,what was full? ,it refers to bottle ,it refers to cup ,cup ,1 
+susan knows all about ann's personal problems because she is nosy. ,what does she refer to? ,she refers to susan ,she refers to ann ,susan ,0 
+susan knows all about ann's personal problems because she is nosy. ,what is nosy? ,she refers to susan ,she refers to ann ,susan ,0 
+susan knows all about ann's personal problems because she is indiscreet. ,what does she refer to? ,she refers to susan ,she refers to ann ,ann ,1 
+susan knows all about ann's personal problems because she is indiscreet. ,what is indiscreet? ,she refers to susan ,she refers to ann ,ann ,1 
+sid explained his theory to mark but he couldn't convince him. ,what does he refer to? ,he refers to sid ,he refers to mark ,sid ,0 
+sid explained his theory to mark but he couldn't convince him. ,what couldn't convince him.? ,he refers to sid ,he refers to mark ,sid ,0 
+sid explained his theory to mark but he couldn't understand him. ,what does he refer to? ,he refers to sid ,he refers to mark ,mark ,1 
+sid explained his theory to mark but he couldn't understand him. ,what couldn't understand him.? ,he refers to sid ,he refers to mark ,mark ,1 
+"susan knew that ann's son had been in a car accident, so she told her about it. ",what does she refer to? ,she refers to susan ,she refers to ann ,susan ,0 
+"susan knew that ann's son had been in a car accident, so she told her about it. ",what told? ,she refers to susan ,she refers to ann ,susan ,0 
+"susan knew that ann's son had been in a car accident, because she told her about it. ",what does she refer to? ,she refers to susan ,she refers to ann ,ann ,1 
+"susan knew that ann's son had been in a car accident, because she told her about it. ",what told? ,she refers to susan ,she refers to ann ,ann ,1 
+"joe's uncle can still beat him at tennis, even though he is 30 years younger. ",what does he refer to? ,he refers to joe ,he refers to joe's uncle ,joe ,0 
+"joe's uncle can still beat him at tennis, even though he is 30 years younger. ",what is 30 years younger.? ,he refers to joe ,he refers to joe's uncle ,joe ,0 
+"joe's uncle can still beat him at tennis, even though he is 30 years older. ",what does he refer to? ,he refers to joe ,he refers to joe's uncle ,joe's uncle ,1 
+"joe's uncle can still beat him at tennis, even though he is 30 years older. ",what is 30 years older.? ,he refers to joe ,he refers to joe's uncle ,joe's uncle ,1 
+painting in mark's living room shows an oak tree. it is to right of bookcase. ,what does it refer to? ,it refers to painting ,it refers to oak tree ,painting ,0 
+painting in mark's living room shows an oak tree. it is to right of bookcase. ,what is to right? ,it refers to painting ,it refers to oak tree ,painting ,0 
+painting in mark's living room shows an oak tree. it is to right of a house. ,what does it refer to? ,it refers to painting ,it refers to oak tree ,oak tree ,1 
+painting in mark's living room shows an oak tree. it is to right of a house. ,what is to right? ,it refers to painting ,it refers to oak tree ,oak tree ,1 
+there is a gap in wall. you can see garden through it. ,what does through refer to? ,through refers to gap ,through refers to wall ,gap ,0 
+there is a gap in wall. you can see garden through it. ,what it? ,through refers to gap ,through refers to wall ,gap ,0 
+there is a gap in wall. you can see garden behind it. ,what does behind refer to? ,behind refers to gap ,behind refers to wall ,wall ,1 
+there is a gap in wall. you can see garden behind it. ,what it? ,behind refers to gap ,behind refers to wall ,wall ,1 
+drain is clogged with hair. it has to be cleaned. ,what does it refer to? ,it refers to drain ,it refers to hair ,drain ,0 
+drain is clogged with hair. it has to be cleaned. ,what has to be cleaned.? ,it refers to drain ,it refers to hair ,drain ,0 
+drain is clogged with hair. it has to be removed. ,what does it refer to? ,it refers to drain ,it refers to hair ,hair ,1 
+drain is clogged with hair. it has to be removed. ,what has to be removed.? ,it refers to drain ,it refers to hair ,hair ,1 
+"my meeting started at 4:00 and i needed to catch train at 4:30, so there wasn't much time. luckily, it was short, so it worked out. ",what does it refer to? ,it refers to meeting ,it refers to train ,meeting ,0 
+"my meeting started at 4:00 and i needed to catch train at 4:30, so there wasn't much time. luckily, it was short, so it worked out. ",what was short? ,it refers to meeting ,it refers to train ,meeting ,0 
+"my meeting started at 4:00 and i needed to catch train at 4:30, so there wasn't much time. luckily, it was delayed, so it worked out. ",what does it refer to? ,it refers to meeting ,it refers to train ,train ,1 
+"my meeting started at 4:00 and i needed to catch train at 4:30, so there wasn't much time. luckily, it was delayed, so it worked out. ",what was delayed? ,it refers to meeting ,it refers to train ,train ,1 
+"there is a pillar between me and stage, and i can't see around it. ",what does see refer to? ,see refers to pillar ,see refers to stage ,pillar ,0 
+"there is a pillar between me and stage, and i can't see around it. ",what around it? ,see refers to pillar ,see refers to stage ,pillar ,0 
+"there is a pillar between me and stage, and i can't see it. ",what does see refer to? ,see refers to pillar ,see refers to stage ,stage ,1 
+"there is a pillar between me and stage, and i can't see it. ",what it? ,see refers to pillar ,see refers to stage ,stage ,1 
+"they broadcast an announcement, but a subway came into station and i couldn't hear it. ",what does hear refer to? ,hear refers to announcement ,hear refers to subway ,announcement ,0 
+"they broadcast an announcement, but a subway came into station and i couldn't hear it. ",what it? ,hear refers to announcement ,hear refers to subway ,announcement ,0 
+"they broadcast an announcement, but a subway came into station and i couldn't hear over it. ",what does hear refer to? ,hear refers to announcement ,hear refers to subway ,subway ,1 
+"they broadcast an announcement, but a subway came into station and i couldn't hear over it. ",what over it? ,hear refers to announcement ,hear refers to subway ,subway ,1 
+"in middle of outdoor concert, rain started falling, but it continued until 10. ",what does it refer to? ,it refers to concert ,it refers to rain ,concert ,0 
+"in middle of outdoor concert, rain started falling, but it continued until 10. ",what continued? ,it refers to concert ,it refers to rain ,concert ,0 
+"in middle of outdoor concert, rain started falling, and it continued until 10. ",what does it refer to? ,it refers to concert ,it refers to rain ,rain ,1 
+"in middle of outdoor concert, rain started falling, and it continued until 10. ",what continued? ,it refers to concert ,it refers to rain ,rain ,1 
+"i used an old rag to clean knife, and then i put it in trash. ",what does put refer to? ,put refers to rag ,put refers to knife ,rag ,0 
+"i used an old rag to clean knife, and then i put it in trash. ",what it in trash.? ,put refers to rag ,put refers to knife ,rag ,0 
+"i used an old rag to clean knife, and then i put it in drawer. ",what does put refer to? ,put refers to rag ,put refers to knife ,knife ,1 
+"i used an old rag to clean knife, and then i put it in drawer. ",what it in drawer.? ,put refers to rag ,put refers to knife ,knife ,1 
+"ann asked mary what time library closes, because she had forgotten. ",what does she refer to? ,she refers to ann ,she refers to mary ,ann ,0 
+"ann asked mary what time library closes, because she had forgotten. ",what had forgotten.? ,she refers to ann ,she refers to mary ,ann ,0 
+"ann asked mary what time library closes, but she had forgotten. ",what does she refer to? ,she refers to ann ,she refers to mary ,mary ,1 
+"ann asked mary what time library closes, but she had forgotten. ",what had forgotten.? ,she refers to ann ,she refers to mary ,mary ,1 
+i took water bottle out of backpack so that it would be handy. ,what does it refer to? ,it refers to water bottle ,it refers to backpack ,water bottle ,0 
+i took water bottle out of backpack so that it would be handy. ,what would be handy? ,it refers to water bottle ,it refers to backpack ,water bottle ,0 
+i took water bottle out of backpack so that it would be lighter. ,what does it refer to? ,it refers to water bottle ,it refers to backpack ,backpack ,1 
+i took water bottle out of backpack so that it would be lighter. ,what would be lighter? ,it refers to water bottle ,it refers to backpack ,backpack ,1 
+i couldn't put pot on shelf because it was too tall. ,what does it refer to? ,it refers to pot ,it refers to shelf ,pot ,0 
+i couldn't put pot on shelf because it was too tall. ,what was too tall.? ,it refers to pot ,it refers to shelf ,pot ,0 
+i couldn't put pot on shelf because it was too high. ,what does it refer to? ,it refers to pot ,it refers to shelf ,shelf ,1 
+i couldn't put pot on shelf because it was too high. ,what was too high.? ,it refers to pot ,it refers to shelf ,shelf ,1 
+i'm sure that my map will show this building; it is very good. ,what does it refer to? ,it refers to map ,it refers to building ,map ,0 
+i'm sure that my map will show this building; it is very good. ,what is very good? ,it refers to map ,it refers to building ,map ,0 
+i'm sure that my map will show this building; it is very famous. ,what does it refer to? ,it refers to map ,it refers to building ,building ,1 
+i'm sure that my map will show this building; it is very famous. ,what is very famous? ,it refers to map ,it refers to building ,building ,1 
+bob paid for charlie's college education. he is very generous. ,what does he refer to? ,he refers to bob ,he refers to charlie ,building ,1 
+bob paid for charlie's college education. he is very generous. ,what is very generous.? ,he refers to bob ,he refers to charlie ,building ,1 
+bob paid for charlie's college education. he is very grateful. ,what does he refer to? ,he refers to bob ,he refers to charlie ,building ,1 
+bob paid for charlie's college education. he is very grateful. ,what is very grateful.? ,he refers to bob ,he refers to charlie ,building ,1 
+"bob paid for charlie's college education, but now charlie acts as though it never happened. he is very hurt. ",what does he refer to? ,he refers to bob ,he refers to charlie ,building ,1 
+"bob paid for charlie's college education, but now charlie acts as though it never happened. he is very hurt. ",what is very hurt.? ,he refers to bob ,he refers to charlie ,building ,1 
+"bob paid for charlie's college education, but now charlie acts as though it never happened. he is very ungrateful. ",what does he refer to? ,he refers to bob ,he refers to charlie ,building ,1 
+"bob paid for charlie's college education, but now charlie acts as though it never happened. he is very ungrateful. ",what is very ungrateful.? ,he refers to bob ,he refers to charlie ,building ,1 
+"bob was playing cards with adam and was way ahead. if adam hadn't had a sudden run of good luck, he would have won. ",what does he refer to? ,he refers to bob ,he refers to adam ,bob ,0 
+"bob was playing cards with adam and was way ahead. if adam hadn't had a sudden run of good luck, he would have won. ",what would have won.? ,he refers to bob ,he refers to adam ,bob ,0 
+"bob was playing cards with adam and was way ahead. if adam hadn't had a sudden run of good luck, he would have lost. ",what does he refer to? ,he refers to bob ,he refers to adam ,adam ,1 
+"bob was playing cards with adam and was way ahead. if adam hadn't had a sudden run of good luck, he would have lost. ",what would have lost.? ,he refers to bob ,he refers to adam ,adam ,1 
+"adam can't leave work here until bob arrives to replace him. if bob had left home for work on time, he would be gone by this time. ",what does he refer to? ,he refers to adam ,he refers to bob ,adam ,0 
+"adam can't leave work here until bob arrives to replace him. if bob had left home for work on time, he would be gone by this time. ",what would be gone? ,he refers to adam ,he refers to bob ,adam ,0 
+"adam can't leave work here until bob arrives to replace him. if bob had left home for work on time, he would be here by this time. ",what does he refer to? ,he refers to adam ,he refers to bob ,bob ,1 
+"adam can't leave work here until bob arrives to replace him. if bob had left home for work on time, he would be here by this time. ",what would be here? ,he refers to adam ,he refers to bob ,bob ,1 
+"if con artist has succeeded in fooling sam, he would have gotten a lot of money. ",what does he refer to? ,he refers to con artist ,he refers to sam ,con artist ,0 
+"if con artist has succeeded in fooling sam, he would have gotten a lot of money. ",what would have gotten a lot of money.? ,he refers to con artist ,he refers to sam ,con artist ,0 
+"if con artist has succeeded in fooling sam, he would have lost a lot of money. ",what does he refer to? ,he refers to con artist ,he refers to sam ,sam ,1 
+"if con artist has succeeded in fooling sam, he would have lost a lot of money. ",what would have lost a lot of money.? ,he refers to con artist ,he refers to sam ,sam ,1 
+"it was a summer afternoon, and dog was sitting in middle of lawn. after a while, it got up and moved to a spot under tree, because it was hot. ",what does it refer to? ,it refers to dog ,it refers to spot under tree ,dog ,0 
+"it was a summer afternoon, and dog was sitting in middle of lawn. after a while, it got up and moved to a spot under tree, because it was hot. ",what was hot? ,it refers to dog ,it refers to spot under tree ,dog ,0 
+"it was a summer afternoon, and dog was sitting in middle of lawn. after a while, it got up and moved to a spot under tree, because it was cooler. ",what does it refer to? ,it refers to dog ,it refers to spot under tree ,spot under tree ,1 
+"it was a summer afternoon, and dog was sitting in middle of lawn. after a while, it got up and moved to a spot under tree, because it was cooler. ",what was cooler? ,it refers to dog ,it refers to spot under tree ,spot under tree ,1 
+"cat was lying by mouse hole waiting for mouse, but it was too impatient. ",what does it refer to? ,it refers to cat ,it refers to mouse ,cat ,0 
+"cat was lying by mouse hole waiting for mouse, but it was too impatient. ",what was too impatient.? ,it refers to cat ,it refers to mouse ,cat ,0 
+"cat was lying by mouse hole waiting for mouse, but it was too cautious. ",what does it refer to? ,it refers to cat ,it refers to mouse ,mouse ,1 
+"cat was lying by mouse hole waiting for mouse, but it was too cautious. ",what was too cautious.? ,it refers to cat ,it refers to mouse ,mouse ,1 
+anne gave birth to a daughter last month. she is a very charming woman. ,what does she refer to? ,she refers to anne ,she refers to anne's daughter ,anne ,0 
+anne gave birth to a daughter last month. she is a very charming woman. ,what is a very charming woman.? ,she refers to anne ,she refers to anne's daughter ,anne ,0 
+anne gave birth to a daughter last month. she is a very charming baby. ,what does she refer to? ,she refers to anne ,she refers to anne's daughter ,anne's daughter ,1 
+anne gave birth to a daughter last month. she is a very charming baby. ,what is a very charming baby.? ,she refers to anne ,she refers to anne's daughter ,anne's daughter ,1 
+"alice tried frantically to stop her daughter from chatting at party, leaving us to wonder why she was behaving so strangely. ",what does she refer to? ,she refers to alice ,she refers to alice's daughter ,alice ,0 
+"alice tried frantically to stop her daughter from chatting at party, leaving us to wonder why she was behaving so strangely. ",what was behaving so strangely.? ,she refers to alice ,she refers to alice's daughter ,alice ,0 
+"alice tried frantically to stop her daughter from barking at party, leaving us to wonder why she was behaving so strangely. ",what does she refer to? ,she refers to alice ,she refers to alice's daughter ,alice's daughter ,1 
+"alice tried frantically to stop her daughter from barking at party, leaving us to wonder why she was behaving so strangely. ",what was behaving so strangely.? ,she refers to alice ,she refers to alice's daughter ,alice's daughter ,1 
+"i saw jim yelling at some guy in a military uniform with a huge red beard. i don't know why he was, but he looked very unhappy. ",what does why refer to? ,why refers to jim ,why refers to guy in uniform ,jim ,0 
+"i saw jim yelling at some guy in a military uniform with a huge red beard. i don't know why he was, but he looked very unhappy. ",what he was? ,why refers to jim ,why refers to guy in uniform ,jim ,0 
+"i saw jim yelling at some guy in a military uniform with a huge red beard. i don't know who he was, but he looked very unhappy. ",what does who refer to? ,who refers to jim ,who refers to guy in uniform ,guy in uniform ,1 
+"i saw jim yelling at some guy in a military uniform with a huge red beard. i don't know who he was, but he looked very unhappy. ",what he was? ,who refers to jim ,who refers to guy in uniform ,guy in uniform ,1 
+fish ate worm. it was hungry. ,what does it refer to? ,it refers to fish ,it refers to worm ,fish ,0 
+fish ate worm. it was hungry. ,what was hungry.? ,it refers to fish ,it refers to worm ,fish ,0 
+fish ate worm. it was tasty. ,what does it refer to? ,it refers to fish ,it refers to worm ,worm ,1 
+fish ate worm. it was tasty. ,what was tasty.? ,it refers to fish ,it refers to worm ,worm ,1 
+"i was trying to open lock with key, but someone had filled keyhole with chewing gum, and i couldn't get it in. ",what does i refer to? ,i refers to key ,i refers to chewing gum ,key ,0 
+"i was trying to open lock with key, but someone had filled keyhole with chewing gum, and i couldn't get it in. ",what couldn't get it in.? ,i refers to key ,i refers to chewing gum ,key ,0 
+"i was trying to open lock with key, but someone had filled keyhole with chewing gum, and i couldn't get it out. ",what does i refer to? ,i refers to key ,i refers to chewing gum ,chewing gum ,1 
+"i was trying to open lock with key, but someone had filled keyhole with chewing gum, and i couldn't get it out. ",what couldn't get it out.? ,i refers to key ,i refers to chewing gum ,chewing gum ,1 
+"dog chased cat, which ran up a tree. it waited at bottom. ",what does it refer to? ,it refers to dog ,it refers to cat ,dog ,0 
+"dog chased cat, which ran up a tree. it waited at bottom. ",what waited? ,it refers to dog ,it refers to cat ,dog ,0 
+"dog chased cat, which ran up a tree. it waited at top. ",what does it refer to? ,it refers to dog ,it refers to cat ,cat ,1 
+"dog chased cat, which ran up a tree. it waited at top. ",what waited? ,it refers to dog ,it refers to cat ,cat ,1 
+"in storm, tree fell down and crashed through roof of my house. now, i have to get it removed. ",what does get refer to? ,get refers to tree ,get refers to roof ,tree ,0 
+"in storm, tree fell down and crashed through roof of my house. now, i have to get it removed. ",what it removed.? ,get refers to tree ,get refers to roof ,tree ,0 
+"in storm, tree fell down and crashed through roof of my house. now, i have to get it repaired. ",what does get refer to? ,get refers to tree ,get refers to roof ,roof ,1 
+"in storm, tree fell down and crashed through roof of my house. now, i have to get it repaired. ",what it repaired.? ,get refers to tree ,get refers to roof ,roof ,1 
+customer walked into bank and stabbed one of tellers. he was immediately taken to police station. ,what does he refer to? ,he refers to customer ,he refers to teller ,roof ,1 
+customer walked into bank and stabbed one of tellers. he was immediately taken to police station. ,what was immediately taken? ,he refers to customer ,he refers to teller ,roof ,1 
+customer walked into bank and stabbed one of tellers. he was immediately taken to hospital. ,what does he refer to? ,he refers to customer ,he refers to teller ,roof ,1 
+customer walked into bank and stabbed one of tellers. he was immediately taken to hospital. ,what was immediately taken? ,he refers to customer ,he refers to teller ,roof ,1 
+john was doing research in library when he heard a man humming and whistling. he was very annoyed. ,what does he refer to? ,he refers to john ,he refers to man ,john ,0 
+john was doing research in library when he heard a man humming and whistling. he was very annoyed. ,what was very annoyed.? ,he refers to john ,he refers to man ,john ,0 
+john was doing research in library when he heard a man humming and whistling. he was very annoying. ,what does he refer to? ,he refers to john ,he refers to man ,man ,1 
+john was doing research in library when he heard a man humming and whistling. he was very annoying. ,what was very annoying.? ,he refers to john ,he refers to man ,man ,1 
+john was jogging through park when he saw a man juggling watermelons. he was very impressed. ,what does he refer to? ,he refers to john ,he refers to juggler ,john ,0 
+john was jogging through park when he saw a man juggling watermelons. he was very impressed. ,what was very impressed.? ,he refers to john ,he refers to juggler ,john ,0 
+john was jogging through park when he saw a man juggling watermelons. he was very impressive. ,what does he refer to? ,he refers to john ,he refers to juggler ,juggler ,1 
+john was jogging through park when he saw a man juggling watermelons. he was very impressive. ,what was very impressive.? ,he refers to john ,he refers to juggler ,juggler ,1 
+bob collapsed on sidewalk. soon he saw carl coming to help. he was very ill. ,what does he refer to? ,he refers to bob ,he refers to carl ,bob ,0 
+bob collapsed on sidewalk. soon he saw carl coming to help. he was very ill. ,what was very ill? ,he refers to bob ,he refers to carl ,bob ,0 
+bob collapsed on sidewalk. soon he saw carl coming to help. he was very concerned. ,what does he refer to? ,he refers to bob ,he refers to carl ,carl ,1 
+bob collapsed on sidewalk. soon he saw carl coming to help. he was very concerned. ,what was very concerned? ,he refers to bob ,he refers to carl ,carl ,1 
+"sam and amy are passionately in love, but amy's parents are unhappy about it, because they are fifteen. ",what does they refer to? ,they refers to sam and amy ,they refers to amy's parents ,sam and amy ,0 
+"sam and amy are passionately in love, but amy's parents are unhappy about it, because they are fifteen. ",what are fifteen.? ,they refers to sam and amy ,they refers to amy's parents ,sam and amy ,0 
+"sam and amy are passionately in love, but amy's parents are unhappy about it, because they are snobs. ",what does they refer to? ,they refers to sam and amy ,they refers to amy's parents ,amy's parents ,1 
+"sam and amy are passionately in love, but amy's parents are unhappy about it, because they are snobs. ",what are snobs.? ,they refers to sam and amy ,they refers to amy's parents ,amy's parents ,1 
+"mark told pete many lies about himself, which pete included in his book. he should have been more truthful. ",what does he refer to? ,he refers to mark ,he refers to pete ,mark ,0 
+"mark told pete many lies about himself, which pete included in his book. he should have been more truthful. ",what should have been more truthful.? ,he refers to mark ,he refers to pete ,mark ,0 
+"mark told pete many lies about himself, which pete included in his book. he should have been more skeptical. ",what does he refer to? ,he refers to mark ,he refers to pete ,pete ,1 
+"mark told pete many lies about himself, which pete included in his book. he should have been more skeptical. ",what should have been more skeptical.? ,he refers to mark ,he refers to pete ,pete ,1 
+joe has sold his house and bought a new one a few miles away. he will be moving out of it on thursday. ,what does moving refer to? ,moving refers to old house ,moving refers to new house ,old house ,0 
+joe has sold his house and bought a new one a few miles away. he will be moving out of it on thursday. ,what out of it? ,moving refers to old house ,moving refers to new house ,old house ,0 
+joe has sold his house and bought a new one a few miles away. he will be moving into it on thursday. ,what does moving refer to? ,moving refers to old house ,moving refers to new house ,new house ,1 
+joe has sold his house and bought a new one a few miles away. he will be moving into it on thursday. ,what into it? ,moving refers to old house ,moving refers to new house ,new house ,1 
+many people start to read paul's books and can't put them down. they are gripped because paul writes so well. ,what does they refer to? ,they refers to people ,they refers to paul's books ,people ,0 
+many people start to read paul's books and can't put them down. they are gripped because paul writes so well. ,what are gripped? ,they refers to people ,they refers to paul's books ,people ,0 
+many people start to read paul's books and can't put them down. they are popular because paul writes so well. ,what does they refer to? ,they refers to people ,they refers to paul's books ,paul's books ,1 
+many people start to read paul's books and can't put them down. they are popular because paul writes so well. ,what are popular? ,they refers to people ,they refers to paul's books ,paul's books ,1 
+mary took out her flute and played one of her favorite pieces. she has had it since she was a child. ,what does she refer to? ,she refers to flute ,she refers to piece ,flute ,0 
+mary took out her flute and played one of her favorite pieces. she has had it since she was a child. ,what has had it? ,she refers to flute ,she refers to piece ,flute ,0 
+mary took out her flute and played one of her favorite pieces. she has loved it since she was a child. ,what does she refer to? ,she refers to flute ,she refers to piece ,piece ,1 
+mary took out her flute and played one of her favorite pieces. she has loved it since she was a child. ,what has loved it? ,she refers to flute ,she refers to piece ,piece ,1 
+"sam pulled up a chair to piano, but it was broken, so he had to stand instead. ",what does it refer to? ,it refers to chair ,it refers to piano ,chair ,0 
+"sam pulled up a chair to piano, but it was broken, so he had to stand instead. ",what was broken? ,it refers to chair ,it refers to piano ,chair ,0 
+"sam pulled up a chair to piano, but it was broken, so he had to sing instead. ",what does it refer to? ,it refers to chair ,it refers to piano ,piano ,1 
+"sam pulled up a chair to piano, but it was broken, so he had to sing instead. ",what was broken? ,it refers to chair ,it refers to piano ,piano ,1 
+"since it was raining, i carried newspaper in my backpack to keep it dry. ",what does keep refer to? ,keep refers to newspaper ,keep refers to backpack ,newspaper ,0 
+"since it was raining, i carried newspaper in my backpack to keep it dry. ",what it dry? ,keep refers to newspaper ,keep refers to backpack ,newspaper ,0 
+"since it was raining, i carried newspaper over my backpack to keep it dry. ",what does keep refer to? ,keep refers to newspaper ,keep refers to backpack ,backpack ,1 
+"since it was raining, i carried newspaper over my backpack to keep it dry. ",what it dry? ,keep refers to newspaper ,keep refers to backpack ,backpack ,1 
+sara borrowed book from library because she needs it for an article she is working on. she reads it when she gets home from work. ,what does she refer to? ,she refers to book ,she refers to article ,book ,0 
+sara borrowed book from library because she needs it for an article she is working on. she reads it when she gets home from work. ,what reads it? ,she refers to book ,she refers to article ,book ,0 
+sara borrowed book from library because she needs it for an article she is working on. she writes it when she gets home from work. ,what does she refer to? ,she refers to book ,she refers to article ,article ,1 
+sara borrowed book from library because she needs it for an article she is working on. she writes it when she gets home from work. ,what writes it? ,she refers to book ,she refers to article ,article ,1 
+"this morning, joey built a sand castle on beach, and put a toy flag in highest tower, but this afternoon tide knocked it down. ",what does knocked refer to? ,knocked refers to sand castle ,knocked refers to flag ,sand castle ,0 
+"this morning, joey built a sand castle on beach, and put a toy flag in highest tower, but this afternoon tide knocked it down. ",what it down? ,knocked refers to sand castle ,knocked refers to flag ,sand castle ,0 
+"this morning, joey built a sand castle on beach, and put a toy flag in highest tower, but this afternoon wind knocked it down. ",what does knocked refer to? ,knocked refers to sand castle ,knocked refers to flag ,flag ,1 
+"this morning, joey built a sand castle on beach, and put a toy flag in highest tower, but this afternoon wind knocked it down. ",what it down? ,knocked refers to sand castle ,knocked refers to flag ,flag ,1 
+"jane knocked on susan's door, but there was no answer. she was disappointed. ",what does she refer to? ,she refers to jane ,she refers to susan ,jane ,0 
+"jane knocked on susan's door, but there was no answer. she was disappointed. ",what was disappointed.? ,she refers to jane ,she refers to susan ,jane ,0 
+"jane knocked on susan's door, but there was no answer. she was out. ",what does she refer to? ,she refers to jane ,she refers to susan ,susan ,1 
+"jane knocked on susan's door, but there was no answer. she was out. ",what was out.? ,she refers to jane ,she refers to susan ,susan ,1 
+"jane knocked on door, and susan answered it. she invited her to come out. ",what does she refer to? ,she refers to jane ,she refers to susan ,jane ,0 
+"jane knocked on door, and susan answered it. she invited her to come out. ",what invited? ,she refers to jane ,she refers to susan ,jane ,0 
+"jane knocked on door, and susan answered it. she invited her to come in. ",what does she refer to? ,she refers to jane ,she refers to susan ,susan ,1 
+"jane knocked on door, and susan answered it. she invited her to come in. ",what invited? ,she refers to jane ,she refers to susan ,susan ,1 
+"sam took french classes from adam, because he was eager to speak it fluently. ",what does he refer to? ,he refers to sam ,he refers to adam ,sam ,0 
+"sam took french classes from adam, because he was eager to speak it fluently. ",what was eager? ,he refers to sam ,he refers to adam ,sam ,0 
+"sam took french classes from adam, because he was known to speak it fluently. ",what does he refer to? ,he refers to sam ,he refers to adam ,adam ,1 
+"sam took french classes from adam, because he was known to speak it fluently. ",what was known to speak it? ,he refers to sam ,he refers to adam ,adam ,1 
+"path to lake was blocked, so we couldn't use it. ",what does use refer to? ,use refers to path ,use refers to lake ,path ,0 
+"path to lake was blocked, so we couldn't use it. ",what it? ,use refers to path ,use refers to lake ,path ,0 
+"path to lake was blocked, so we couldn't reach it. ",what does reach refer to? ,reach refers to path ,reach refers to lake ,lake ,1 
+"path to lake was blocked, so we couldn't reach it. ",what it? ,reach refers to path ,reach refers to lake ,lake ,1 
+"sun was covered by a thick cloud all morning, but luckily, by time picnic started, it was out. ",what does it refer to? ,it refers to sun ,it refers to cloud ,sun ,0 
+"sun was covered by a thick cloud all morning, but luckily, by time picnic started, it was out. ",what was out? ,it refers to sun ,it refers to cloud ,sun ,0 
+"sun was covered by a thick cloud all morning, but luckily, by time picnic started, it was gone. ",what does it refer to? ,it refers to sun ,it refers to cloud ,cloud ,1 
+"sun was covered by a thick cloud all morning, but luckily, by time picnic started, it was gone. ",what was gone? ,it refers to sun ,it refers to cloud ,cloud ,1 
+"we went to lake, because a shark had been seen at ocean beach, so it was a safer place to swim. ",what does it refer to? ,it refers to lake ,it refers to ocean beach ,lake ,0 
+"we went to lake, because a shark had been seen at ocean beach, so it was a safer place to swim. ",what was a safer place? ,it refers to lake ,it refers to ocean beach ,lake ,0 
+"we went to lake, because a shark had been seen at ocean beach, so it was a dangerous place to swim. ",what does it refer to? ,it refers to lake ,it refers to ocean beach ,ocean beach ,1 
+"we went to lake, because a shark had been seen at ocean beach, so it was a dangerous place to swim. ",what was a dangerous place? ,it refers to lake ,it refers to ocean beach ,ocean beach ,1 
+"sam tried to paint a picture of shepherds with sheep, but they ended up looking more like golfers. ",what does they refer to? ,they refers to shepherds ,they refers to sheep ,shepherds ,0 
+"sam tried to paint a picture of shepherds with sheep, but they ended up looking more like golfers. ",what ended up looking more like golfers.? ,they refers to shepherds ,they refers to sheep ,shepherds ,0 
+"sam tried to paint a picture of shepherds with sheep, but they ended up looking more like dogs. ",what does they refer to? ,they refers to shepherds ,they refers to sheep ,sheep ,1 
+"sam tried to paint a picture of shepherds with sheep, but they ended up looking more like dogs. ",what ended up looking more like dogs.? ,they refers to shepherds ,they refers to sheep ,sheep ,1 
+"mary tucked her daughter anne into bed, so that she could work. ",what does she refer to? ,she refers to mary ,she refers to mary's daughter ,mary ,0 
+"mary tucked her daughter anne into bed, so that she could work. ",what could work? ,she refers to mary ,she refers to mary's daughter ,mary ,0 
+"mary tucked her daughter anne into bed, so that she could sleep. ",what does she refer to? ,she refers to mary ,she refers to mary's daughter ,mary's daughter ,1 
+"mary tucked her daughter anne into bed, so that she could sleep. ",what could sleep.? ,she refers to mary ,she refers to mary's daughter ,mary's daughter ,1 
+"fred and alice had very warm down coats, but they were not prepared for cold in alaska. ",what does they refer to? ,they refers to fred and alice ,they refers to coats ,fred and alice ,0 
+"fred and alice had very warm down coats, but they were not prepared for cold in alaska. ",what were not prepared? ,they refers to fred and alice ,they refers to coats ,fred and alice ,0 
+"fred and alice had very warm down coats, but they were not enough for cold in alaska. ",what does they refer to? ,they refers to fred and alice ,they refers to coats ,coats ,1 
+"fred and alice had very warm down coats, but they were not enough for cold in alaska. ",what were not enough? ,they refers to fred and alice ,they refers to coats ,coats ,1 
+thomson visited cooper's grave in 1765. at that date he had been travelling for five years. ,what does he refer to? ,he refers to thomson ,he refers to cooper ,thomson ,0 
+thomson visited cooper's grave in 1765. at that date he had been travelling for five years. ,what had been travelling? ,he refers to thomson ,he refers to cooper ,thomson ,0 
+thomson visited cooper's grave in 1765. at that date he had been dead for five years. ,what does he refer to? ,he refers to thomson ,he refers to cooper ,cooper ,1 
+thomson visited cooper's grave in 1765. at that date he had been dead for five years. ,what had been dead? ,he refers to thomson ,he refers to cooper ,cooper ,1 
+"jackson was greatly influenced by arnold, though he lived two centuries later. ",what does he refer to? ,he refers to jackson ,he refers to arnold ,jackson ,0 
+"jackson was greatly influenced by arnold, though he lived two centuries later. ",what lived two centuries later.? ,he refers to jackson ,he refers to arnold ,jackson ,0 
+"jackson was greatly influenced by arnold, though he lived two centuries earlier. ",what does he refer to? ,he refers to jackson ,he refers to arnold ,arnold ,1 
+"jackson was greatly influenced by arnold, though he lived two centuries earlier. ",what lived two centuries earlier.? ,he refers to jackson ,he refers to arnold ,arnold ,1 
+i can't cut that tree down with that axe; it is too thick. ,what does it refer to? ,it refers to tree ,it refers to axe ,tree ,0 
+i can't cut that tree down with that axe; it is too thick. ,what is too thick.? ,it refers to tree ,it refers to axe ,tree ,0 
+i can't cut that tree down with that axe; it is too small. ,what does it refer to? ,it refers to tree ,it refers to axe ,axe ,1 
+i can't cut that tree down with that axe; it is too small. ,what is too small.? ,it refers to tree ,it refers to axe ,axe ,1 
+foxes are getting in at night and attacking chickens. i shall have to kill them. ,what does to refer to? ,to refers to foxes ,to refers to chickens ,foxes ,0 
+foxes are getting in at night and attacking chickens. i shall have to kill them. ,what kill them? ,to refers to foxes ,to refers to chickens ,foxes ,0 
+foxes are getting in at night and attacking chickens. i shall have to guard them. ,what does to refer to? ,to refers to foxes ,to refers to chickens ,chickens ,1 
+foxes are getting in at night and attacking chickens. i shall have to guard them. ,what guard them? ,to refers to foxes ,to refers to chickens ,chickens ,1 
+foxes are getting in at night and attacking chickens. they have gotten very bold. ,what does they refer to? ,they refers to foxes ,they refers to chickens ,foxes ,0 
+foxes are getting in at night and attacking chickens. they have gotten very bold. ,what have gotten very bold.? ,they refers to foxes ,they refers to chickens ,foxes ,0 
+foxes are getting in at night and attacking chickens. they have gotten very nervous. ,what does they refer to? ,they refers to foxes ,they refers to chickens ,chickens ,1 
+foxes are getting in at night and attacking chickens. they have gotten very nervous. ,what have gotten very nervous.? ,they refers to foxes ,they refers to chickens ,chickens ,1 
+"fred covered his eyes with his hands, because wind was blowing sand around. he opened them when wind stopped. ",what does opened refer to? ,opened refers to his eyes ,opened refers to his hands ,his eyes ,0 
+"fred covered his eyes with his hands, because wind was blowing sand around. he opened them when wind stopped. ",what them? ,opened refers to his eyes ,opened refers to his hands ,his eyes ,0 
+"fred covered his eyes with his hands, because wind was blowing sand around. he lowered them when wind stopped. ",what does lowered refer to? ,lowered refers to his eyes ,lowered refers to his hands ,his hands ,1 
+"fred covered his eyes with his hands, because wind was blowing sand around. he lowered them when wind stopped. ",what them? ,lowered refers to his eyes ,lowered refers to his hands ,his hands ,1 
+"actress used to be named terpsichore, but she changed it to tina a few years ago, because she figured it was too hard to pronounce. ",what does it refer to? ,it refers to terpsichore ,it refers to tina ,terpsichore ,0 
+"actress used to be named terpsichore, but she changed it to tina a few years ago, because she figured it was too hard to pronounce. ",what was too hard? ,it refers to terpsichore ,it refers to tina ,terpsichore ,0 
+"actress used to be named terpsichore, but she changed it to tina a few years ago, because she figured it was easier to pronounce. ",what does it refer to? ,it refers to terpsichore ,it refers to tina ,tina ,1 
+"actress used to be named terpsichore, but she changed it to tina a few years ago, because she figured it was easier to pronounce. ",what was easier? ,it refers to terpsichore ,it refers to tina ,tina ,1 
+fred watched tv while george went out to buy groceries. after an hour he got up. ,what does he refer to? ,he refers to fred ,he refers to george ,fred ,0 
+fred watched tv while george went out to buy groceries. after an hour he got up. ,what got up.? ,he refers to fred ,he refers to george ,fred ,0 
+fred watched tv while george went out to buy groceries. after an hour he got back. ,what does he refer to? ,he refers to fred ,he refers to george ,george ,1 
+fred watched tv while george went out to buy groceries. after an hour he got back. ,what got back.? ,he refers to fred ,he refers to george ,george ,1 
+"fred was supposed to run dishwasher, but he put it off, because he wanted to watch tv. but show turned out to be boring, so he changed his mind and turned it on. ",what does turned refer to? ,turned refers to dishwasher ,turned refers to tv ,dishwasher ,0 
+"fred was supposed to run dishwasher, but he put it off, because he wanted to watch tv. but show turned out to be boring, so he changed his mind and turned it on. ",what it on? ,turned refers to dishwasher ,turned refers to tv ,dishwasher ,0 
+"fred was supposed to run dishwasher, but he put it off, because he wanted to watch tv. but show turned out to be boring, so he changed his mind and turned it off. ",what does turned refer to? ,turned refers to dishwasher ,turned refers to tv ,tv ,1 
+"fred was supposed to run dishwasher, but he put it off, because he wanted to watch tv. but show turned out to be boring, so he changed his mind and turned it off. ",what it off? ,turned refers to dishwasher ,turned refers to tv ,tv ,1 
+fred is only man still alive who remembers my great-grandfather. he is a remarkable man. ,what does he refer to? ,he refers to fred ,he refers to my great-grandfather ,fred ,0 
+fred is only man still alive who remembers my great-grandfather. he is a remarkable man. ,what is a remarkable man.? ,he refers to fred ,he refers to my great-grandfather ,fred ,0 
+fred is only man still alive who remembers my great-grandfather. he was a remarkable man. ,what does he refer to? ,he refers to fred ,he refers to my great-grandfather ,my great-grandfather ,1 
+fred is only man still alive who remembers my great-grandfather. he was a remarkable man. ,what was a remarkable man.? ,he refers to fred ,he refers to my great-grandfather ,my great-grandfather ,1 
+"fred is only man alive who still remembers my father as an infant. when fred first saw my father, he was twelve years old. ",what does he refer to? ,he refers to fred ,he refers to my father ,fred ,0 
+"fred is only man alive who still remembers my father as an infant. when fred first saw my father, he was twelve years old. ",what was twelve years old.? ,he refers to fred ,he refers to my father ,fred ,0 
+"fred is only man alive who still remembers my father as an infant. when fred first saw my father, he was twelve months old. ",what does he refer to? ,he refers to fred ,he refers to my father ,my father ,1 
+"fred is only man alive who still remembers my father as an infant. when fred first saw my father, he was twelve months old. ",what was twelve months old.? ,he refers to fred ,he refers to my father ,my father ,1 
+"in july, kamtchatka declared war on yakutsk. since yakutsk's army was much better equipped and ten times larger, they were defeated within weeks. ",what does they refer to? ,they refers to kamchatka ,they refers to yakutsk ,kamchatka ,0 
+"in july, kamtchatka declared war on yakutsk. since yakutsk's army was much better equipped and ten times larger, they were defeated within weeks. ",what were defeated? ,they refers to kamchatka ,they refers to yakutsk ,kamchatka ,0 
+"in july, kamtchatka declared war on yakutsk. since yakutsk's army was much better equipped and ten times larger, they were victorious within weeks. ",what does they refer to? ,they refers to kamchatka ,they refers to yakutsk ,yakutsk ,1 
+"in july, kamtchatka declared war on yakutsk. since yakutsk's army was much better equipped and ten times larger, they were victorious within weeks. ",what were victorious? ,they refers to kamchatka ,they refers to yakutsk ,yakutsk ,1 
+look! there is a minnow swimming right below that duck! it had better get away to safety fast! ,what does it refer to? ,it refers to minnow ,it refers to duck ,minnow ,0 
+look! there is a minnow swimming right below that duck! it had better get away to safety fast! ,what had better get away? ,it refers to minnow ,it refers to duck ,minnow ,0 
+look! there is a shark swimming right below that duck! it had better get away to safety fast! ,what does it refer to? ,it refers to shark ,it refers to duck ,duck ,1 
+look! there is a shark swimming right below that duck! it had better get away to safety fast! ,what had better get away? ,it refers to shark ,it refers to duck ,duck ,1 
+"archaeologists have concluded that humans lived in laputa 20,000 years ago. they hunted for evidence on river banks. ",what does they refer to? ,they refers to archaeologists ,they refers to prehistoric humans ,archaeologists ,0 
+"archaeologists have concluded that humans lived in laputa 20,000 years ago. they hunted for evidence on river banks. ",what hunted for evidence? ,they refers to archaeologists ,they refers to prehistoric humans ,archaeologists ,0 
+"archaeologists have concluded that humans lived in laputa 20,000 years ago. they hunted for deer on river banks. ",what does they refer to? ,they refers to archaeologists ,they refers to prehistoric humans ,prehistoric humans ,1 
+"archaeologists have concluded that humans lived in laputa 20,000 years ago. they hunted for deer on river banks. ",what hunted for deer? ,they refers to archaeologists ,they refers to prehistoric humans ,prehistoric humans ,1 
+scientists are studying three species of fish that have recently been found living in indian ocean. they began two years ago. ,what does they refer to? ,they refers to scientists ,they refers to fish ,scientists ,0 
+scientists are studying three species of fish that have recently been found living in indian ocean. they began two years ago. ,what began two years ago.? ,they refers to scientists ,they refers to fish ,scientists ,0 
+scientists are studying three species of fish that have recently been found living in indian ocean. they appeared two years ago. ,what does they refer to? ,they refers to scientists ,they refers to fish ,fish ,1 
+scientists are studying three species of fish that have recently been found living in indian ocean. they appeared two years ago. ,what appeared two years ago.? ,they refers to scientists ,they refers to fish ,fish ,1 
+"journalists interviewed stars of new movie. they were very persistent, so interview lasted for a long time. ",what does they refer to? ,they refers to journalists ,they refers to stars ,journalists ,0 
+"journalists interviewed stars of new movie. they were very persistent, so interview lasted for a long time. ",what were very persistent? ,they refers to journalists ,they refers to stars ,journalists ,0 
+"journalists interviewed stars of new movie. they were very cooperative, so interview lasted for a long time. ",what does they refer to? ,they refers to journalists ,they refers to stars ,stars ,1 
+"journalists interviewed stars of new movie. they were very cooperative, so interview lasted for a long time. ",what were very cooperative? ,they refers to journalists ,they refers to stars ,stars ,1 
+police arrested all of gang members. they were trying to stop drug trade in neighborhood. ,what does they refer to? ,they refers to police ,they refers to gang members ,police ,0 
+police arrested all of gang members. they were trying to stop drug trade in neighborhood. ,what were trying to stop drug trade.? ,they refers to police ,they refers to gang members ,police ,0 
+police arrested all of gang members. they were trying to run drug trade in neighborhood. ,what does they refer to? ,they refers to police ,they refers to gang members ,gang members ,1 
+police arrested all of gang members. they were trying to run drug trade in neighborhood. ,what were trying to run drug trade.? ,they refers to police ,they refers to gang members ,gang members ,1 
+i put cake away in refrigerator. it has a lot of butter in it. ,what does it refer to? ,it refers to cake ,it refers to refrigerator ,cake ,0 
+i put cake away in refrigerator. it has a lot of butter in it. ,what has a lot of butter? ,it refers to cake ,it refers to refrigerator ,cake ,0 
+i put cake away in refrigerator. it has a lot of leftovers in it. ,what does it refer to? ,it refers to cake ,it refers to refrigerator ,refrigerator ,1 
+i put cake away in refrigerator. it has a lot of leftovers in it. ,what has a lot of leftovers? ,it refers to cake ,it refers to refrigerator ,refrigerator ,1 
+sam broke both his ankles and he's walking with crutches. but a month or so from now they should be better. ,what does they refer to? ,they refers to ankles ,they refers to crutches ,ankles ,0 
+sam broke both his ankles and he's walking with crutches. but a month or so from now they should be better. ,what should be better? ,they refers to ankles ,they refers to crutches ,ankles ,0 
+sam broke both his ankles and he's walking with crutches. but a month or so from now they should be unnecessary. ,what does they refer to? ,they refers to ankles ,they refers to crutches ,crutches ,1 
+sam broke both his ankles and he's walking with crutches. but a month or so from now they should be unnecessary. ,what should be unnecessary? ,they refers to ankles ,they refers to crutches ,crutches ,1 
+"when sponsors of bill got to town hall, they were surprised to find that room was full of opponents. they were very much in minority. ",what does they refer to? ,they refers to sponsors ,they refers to opponents ,sponsors ,0 
+"when sponsors of bill got to town hall, they were surprised to find that room was full of opponents. they were very much in minority. ",what were very much in minority.? ,they refers to sponsors ,they refers to opponents ,sponsors ,0 
+"when sponsors of bill got to town hall, they were surprised to find that room was full of opponents. they were very much in majority. ",what does they refer to? ,they refers to sponsors ,they refers to opponents ,opponents ,1 
+"when sponsors of bill got to town hall, they were surprised to find that room was full of opponents. they were very much in majority. ",what were very much in majority.? ,they refers to sponsors ,they refers to opponents ,opponents ,1 
+"everyone really loved oatmeal cookies; only a few people liked chocolate chip cookies. next time, we should make more of them. ",what does more refer to? ,more refers to oatmeal cookies ,more refers to chocolate chip cookies ,oatmeal cookies ,0 
+"everyone really loved oatmeal cookies; only a few people liked chocolate chip cookies. next time, we should make more of them. ",what of them? ,more refers to oatmeal cookies ,more refers to chocolate chip cookies ,oatmeal cookies ,0 
+"everyone really loved oatmeal cookies; only a few people liked chocolate chip cookies. next time, we should make fewer of them. ",what does fewer refer to? ,fewer refers to oatmeal cookies ,fewer refers to chocolate chip cookies ,chocolate chip cookies ,1 
+"everyone really loved oatmeal cookies; only a few people liked chocolate chip cookies. next time, we should make fewer of them. ",what of them? ,fewer refers to oatmeal cookies ,fewer refers to chocolate chip cookies ,chocolate chip cookies ,1 
+"we had hoped to place copies of our newsletter on all chairs in auditorium, but there were simply not enough of them. ",what does not refer to? ,not refers to copies of newsletter ,not refers to chairs ,copies of newsletter ,0 
+"we had hoped to place copies of our newsletter on all chairs in auditorium, but there were simply not enough of them. ",what enough of them? ,not refers to copies of newsletter ,not refers to chairs ,copies of newsletter ,0 
+"we had hoped to place copies of our newsletter on all chairs in auditorium, but there were simply too many of them. ",what does too refer to? ,too refers to copies of newsletter ,too refers to chairs ,chairs ,1 
+"we had hoped to place copies of our newsletter on all chairs in auditorium, but there were simply too many of them. ",what many of them? ,too refers to copies of newsletter ,too refers to chairs ,chairs ,1 
+"i stuck a pin through a carrot. when i pulled pin out, it left a hole. ",what does it refer to? ,it refers to pin ,it refers to carrot ,pin ,0 
+"i stuck a pin through a carrot. when i pulled pin out, it left a hole. ",what left a hole? ,it refers to pin ,it refers to carrot ,pin ,0 
+"i stuck a pin through a carrot. when i pulled pin out, it had a hole. ",what does it refer to? ,it refers to pin ,it refers to carrot ,carrot ,1 
+"i stuck a pin through a carrot. when i pulled pin out, it had a hole. ",what had a hole? ,it refers to pin ,it refers to carrot ,carrot ,1 
+"i couldn't find a spoon, so i tried using a pen to stir my coffee. but that turned out to be a bad idea, because it got full of coffee. ",what does it refer to? ,it refers to pen ,it refers to coffee ,pen ,0 
+"i couldn't find a spoon, so i tried using a pen to stir my coffee. but that turned out to be a bad idea, because it got full of coffee. ",what got full of coffee.? ,it refers to pen ,it refers to coffee ,pen ,0 
+"i couldn't find a spoon, so i tried using a pen to stir my coffee. but that turned out to be a bad idea, because it got full of ink. ",what does it refer to? ,it refers to pen ,it refers to coffee ,coffee ,1 
+"i couldn't find a spoon, so i tried using a pen to stir my coffee. but that turned out to be a bad idea, because it got full of ink. ",what got full of ink.? ,it refers to pen ,it refers to coffee ,coffee ,1 
+steve follows fred's example in everything. he admires him hugely. ,what does he refer to? ,he refers to steve ,he refers to fred ,steve ,0 
+steve follows fred's example in everything. he admires him hugely. ,what admires him hugely.? ,he refers to steve ,he refers to fred ,steve ,0 
+steve follows fred's example in everything. he influences him hugely. ,what does he refer to? ,he refers to steve ,he refers to fred ,fred ,1 
+steve follows fred's example in everything. he influences him hugely. ,what influences him hugely.? ,he refers to steve ,he refers to fred ,fred ,1 
+table won't fit through doorway because it is too wide. ,what does it refer to? ,it refers to table ,it refers to doorway ,table ,0 
+table won't fit through doorway because it is too wide. ,what is too wide.? ,it refers to table ,it refers to doorway ,table ,0 
+table won't fit through doorway because it is too narrow. ,what does it refer to? ,it refers to table ,it refers to doorway ,doorway ,1 
+table won't fit through doorway because it is too narrow. ,what is too narrow.? ,it refers to table ,it refers to doorway ,doorway ,1 
+grace was happy to trade me her sweater for my jacket. she thinks it looks dowdy on her. ,what does it refer to? ,it refers to sweater ,it refers to jacket ,sweater ,0 
+grace was happy to trade me her sweater for my jacket. she thinks it looks dowdy on her. ,what looks dowdy on her.? ,it refers to sweater ,it refers to jacket ,sweater ,0 
+grace was happy to trade me her sweater for my jacket. she thinks it looks great on her. ,what does it refer to? ,it refers to sweater ,it refers to jacket ,jacket ,1 
+grace was happy to trade me her sweater for my jacket. she thinks it looks great on her. ,what looks great on her.? ,it refers to sweater ,it refers to jacket ,jacket ,1 
+john hired bill to take care of him. ,what does take refer to? ,take refers to john ,take refers to bill ,john ,0 
+john hired bill to take care of him. ,what care of him? ,take refers to john ,take refers to bill ,john ,0 
+john hired himself out to bill to take care of him. ,what does take refer to? ,take refers to john ,take refers to bill ,bill ,1 
+john hired himself out to bill to take care of him. ,what care of him? ,take refers to john ,take refers to bill ,bill ,1 
+"john promised bill to leave, so an hour later he left. ",what does he refer to? ,he refers to john ,he refers to bill ,john ,0 
+"john promised bill to leave, so an hour later he left. ",what left? ,he refers to john ,he refers to bill ,john ,0 
+"john ordered bill to leave, so an hour later he left. ",what does he refer to? ,he refers to john ,he refers to bill ,bill ,1 
+"john ordered bill to leave, so an hour later he left. ",what left? ,he refers to john ,he refers to bill ,bill ,1 
+sam goodman's biography of spartan general xenophanes conveys a vivid sense of difficulties he faced in his research. ,what does difficulties refer to? ,difficulties refers to goodman ,difficulties refers to xenophanes ,goodman ,0 
+sam goodman's biography of spartan general xenophanes conveys a vivid sense of difficulties he faced in his research. ,what he faced? ,difficulties refers to goodman ,difficulties refers to xenophanes ,goodman ,0 
+sam goodman's biography of spartan general xenophanes conveys a vivid sense of difficulties he faced in his childhood. ,what does difficulties refer to? ,difficulties refers to goodman ,difficulties refers to xenophanes ,xenophanes ,1 
+sam goodman's biography of spartan general xenophanes conveys a vivid sense of difficulties he faced in his childhood. ,what he faced? ,difficulties refers to goodman ,difficulties refers to xenophanes ,xenophanes ,1 
+"emma's mother had died long ago, and her education had been managed by an excellent woman as governess. ",what does her refer to? ,her refers to emma ,her refers to emma's mother ,emma ,0 
+"emma's mother had died long ago, and her education had been managed by an excellent woman as governess. ",what education? ,her refers to emma ,her refers to emma's mother ,emma ,0 
+"emma's mother had died long ago, and her place had been taken by an excellent woman as governess. ",what does her refer to? ,her refers to emma ,her refers to emma's mother ,emma's mother ,1 
+"emma's mother had died long ago, and her place had been taken by an excellent woman as governess. ",what place? ,her refers to emma ,her refers to emma's mother ,emma's mother ,1 
+jane knocked on susan's door but she did not get an answer. ,what does she refer to? ,she refers to jane ,she refers to susan ,jane ,0 
+jane knocked on susan's door but she did not get an answer. ,what did not get an answer.? ,she refers to jane ,she refers to susan ,jane ,0 
+jane knocked on susan's door but she did not answer. ,what does she refer to? ,she refers to jane ,she refers to susan ,susan ,1 
+jane knocked on susan's door but she did not answer. ,what did not answer.? ,she refers to jane ,she refers to susan ,susan ,1 
+joe paid detective after he received final report on case. ,what does he refer to? ,he refers to joe ,he refers to detective ,joe ,0 
+joe paid detective after he received final report on case. ,what received final report? ,he refers to joe ,he refers to detective ,joe ,0 
+joe paid detective after he delivered final report on case. ,what does he refer to? ,he refers to joe ,he refers to detective ,detective ,1 
+joe paid detective after he delivered final report on case. ,what delivered final report? ,he refers to joe ,he refers to detective ,detective ,1 
+"beth didn't get angry with sally, who had cut her off, because she stopped and counted to ten. ",what does she refer to? ,she refers to beth ,she refers to sally ,beth ,0 
+"beth didn't get angry with sally, who had cut her off, because she stopped and counted to ten. ",what stopped? ,she refers to beth ,she refers to sally ,beth ,0 
+"beth didn't get angry with sally, who had cut her off, because she stopped and apologized. ",what does she refer to? ,she refers to beth ,she refers to sally ,sally ,1 
+"beth didn't get angry with sally, who had cut her off, because she stopped and apologized. ",what stopped? ,she refers to beth ,she refers to sally ,sally ,1 
+jim signaled barman and gestured toward his empty glass ,what does his refer to? ,his refers to jim ,his refers to barman ,jim ,0 
+jim signaled barman and gestured toward his empty glass ,what empty glass? ,his refers to jim ,his refers to barman ,jim ,0 
+jim signaled barman and gestured toward his bathroom key. ,what does his refer to? ,his refers to jim ,his refers to barman ,barman ,1 
+jim signaled barman and gestured toward his bathroom key. ,what bathroom key? ,his refers to jim ,his refers to barman ,barman ,1 
+"dan took rear seat while bill claimed front because his ""dibs!"" was slow. ",what does his refer to? ,his refers to dan ,his refers to bill ,dan ,0 
+"dan took rear seat while bill claimed front because his ""dibs!"" was slow. ","what ""dibs!""? ",his refers to dan ,his refers to bill ,dan ,0 
+"dan took rear seat while bill claimed front because his ""dibs!"" was quicker. ",what does his refer to? ,his refers to dan ,his refers to bill ,bill ,1 
+"dan took rear seat while bill claimed front because his ""dibs!"" was quicker. ","what ""dibs!""? ",his refers to dan ,his refers to bill ,bill ,1 
+"tom said ""check"" to ralph as he moved his bishop. ",what does his refer to? ,his refers to tom ,his refers to ralph ,tom ,0 
+"tom said ""check"" to ralph as he moved his bishop. ",what bishop? ,his refers to tom ,his refers to ralph ,tom ,0 
+"tom said ""check"" to ralph as he took his bishop. ",what does his refer to? ,his refers to tom ,his refers to ralph ,ralph ,1 
+"tom said ""check"" to ralph as he took his bishop. ",what bishop? ,his refers to tom ,his refers to ralph ,ralph ,1 
+"as andrea in crop duster passed over susan, she could see landing strip. ",what does she refer to? ,she refers to andrea ,she refers to susan ,andrea ,0 
+"as andrea in crop duster passed over susan, she could see landing strip. ",what could see? ,she refers to andrea ,she refers to susan ,andrea ,0 
+"as andrea in crop duster passed over susan, she could see landing gear. ",what does she refer to? ,she refers to andrea ,she refers to susan ,susan ,1 
+"as andrea in crop duster passed over susan, she could see landing gear. ",what could see? ,she refers to andrea ,she refers to susan ,susan ,1 
+tom gave ralph a lift to school so he wouldn't have to drive alone. ,what does he refer to? ,he refers to tom ,he refers to ralph ,tom ,0 
+tom gave ralph a lift to school so he wouldn't have to drive alone. ,what wouldn't have to drive alone.? ,he refers to tom ,he refers to ralph ,tom ,0 
+tom gave ralph a lift to school so he wouldn't have to walk. ,what does he refer to? ,he refers to tom ,he refers to ralph ,ralph ,1 
+tom gave ralph a lift to school so he wouldn't have to walk. ,what wouldn't have to walk.? ,he refers to tom ,he refers to ralph ,ralph ,1 
+bill passed half-empty plate to john because he was full. ,what does he refer to? ,he refers to bill ,he refers to john ,bill ,0 
+bill passed half-empty plate to john because he was full. ,what was full.? ,he refers to bill ,he refers to john ,bill ,0 
+bill passed half-empty plate to john because he was hungry. ,what does he refer to? ,he refers to bill ,he refers to john ,john ,1 
+bill passed half-empty plate to john because he was hungry. ,what was hungry? ,he refers to bill ,he refers to john ,john ,1 
+bill passed gameboy to john because his turn was over. ,what does his refer to? ,his refers to bill ,his refers to john ,bill ,0 
+bill passed gameboy to john because his turn was over. ,what turn? ,his refers to bill ,his refers to john ,bill ,0 
+bill passed gameboy to john because his turn was next. ,what does his refer to? ,his refers to bill ,his refers to john ,john ,1 
+bill passed gameboy to john because his turn was next. ,what turn? ,his refers to bill ,his refers to john ,john ,1 
+man lifted boy onto his shoulders. ,what does his refer to? ,his refers to man ,his refers to boy ,man ,0 
+man lifted boy onto his shoulders. ,what shoulders? ,his refers to man ,his refers to boy ,man ,0 
+man lifted boy onto his bunk bed. ,what does his refer to? ,his refers to man ,his refers to boy ,boy ,1 
+man lifted boy onto his bunk bed. ,what bunk bed.? ,his refers to man ,his refers to boy ,boy ,1 
+"stretching her back, woman smiled at girl. ",what does her refer to? ,her refers to woman ,her refers to girl ,woman ,0 
+"stretching her back, woman smiled at girl. ",what back? ,her refers to woman ,her refers to girl ,woman ,0 
+"patting her back, woman smiled at girl. ",what does her refer to? ,her refers to woman ,her refers to girl ,girl ,1 
+"patting her back, woman smiled at girl. ",what back? ,her refers to woman ,her refers to girl ,girl ,1 
+billy cried because toby wouldn't accept his toy. ,what does his refer to? ,his refers to billy ,his refers to toby ,billy ,0 
+billy cried because toby wouldn't accept his toy. ,what toy? ,his refers to billy ,his refers to toby ,billy ,0 
+billy cried because toby wouldn't share his toy. ,what does his refer to? ,his refers to billy ,his refers to toby ,toby ,1 
+billy cried because toby wouldn't share his toy. ,what toy? ,his refers to billy ,his refers to toby ,toby ,1 
+"lily spoke to donna, breaking her silence. ",what does her refer to? ,her refers to lily ,her refers to donna ,lily ,0 
+"lily spoke to donna, breaking her silence. ",what silence.? ,her refers to lily ,her refers to donna ,lily ,0 
+"lily spoke to donna, breaking her concentration. ",what does her refer to? ,her refers to lily ,her refers to donna ,donna ,1 
+"lily spoke to donna, breaking her concentration. ",what concentration.? ,her refers to lily ,her refers to donna ,donna ,1 
+"when tommy dropped his ice cream, timmy giggled, so father gave him a sympathetic look. ",what does gave refer to? ,gave refers to tommy ,gave refers to timmy ,tommy ,0 
+"when tommy dropped his ice cream, timmy giggled, so father gave him a sympathetic look. ",what him? ,gave refers to tommy ,gave refers to timmy ,tommy ,0 
+"when tommy dropped his ice cream, timmy giggled, so father gave him a stern look. ",what does gave refer to? ,gave refers to tommy ,gave refers to timmy ,timmy ,1 
+"when tommy dropped his ice cream, timmy giggled, so father gave him a stern look. ",what him? ,gave refers to tommy ,gave refers to timmy ,timmy ,1 
+"as ollie carried tommy up long winding steps, his legs ached. ",what does his refer to? ,his refers to ollie ,his refers to tommy ,ollie ,0 
+"as ollie carried tommy up long winding steps, his legs ached. ",what legs ached.? ,his refers to ollie ,his refers to tommy ,ollie ,0 
+"as ollie carried tommy up long winding steps, his legs dangled. ",what does his refer to? ,his refers to ollie ,his refers to tommy ,tommy ,1 
+"as ollie carried tommy up long winding steps, his legs dangled. ",what legs dangled.? ,his refers to ollie ,his refers to tommy ,tommy ,1 
+father carried sleeping boy in his arms ,what does his refer to? ,his refers to father ,his refers to boy ,father ,0 
+father carried sleeping boy in his arms ,what arms? ,his refers to father ,his refers to boy ,father ,0 
+father carried sleeping boy in his bassinet. ,what does his refer to? ,his refers to father ,his refers to boy ,boy ,1 
+father carried sleeping boy in his bassinet. ,what bassinet.? ,his refers to father ,his refers to boy ,boy ,1 
+woman held girl against her chest ,what does her refer to? ,her refers to woman ,her refers to girl ,woman ,0 
+woman held girl against her chest ,what chest.? ,her refers to woman ,her refers to girl ,woman ,0 
+woman held girl against her will. ,what does her refer to? ,her refers to woman ,her refers to girl ,girl ,1 
+woman held girl against her will. ,what will? ,her refers to woman ,her refers to girl ,girl ,1 
+"pam's parents came home and found her having sex with her boyfriend, paul. they were furious about it. ",what does they refer to? ,they refers to pam's parents ,they refers to pam and paul ,pam's parents ,0 
+"pam's parents came home and found her having sex with her boyfriend, paul. they were furious about it. ",what were furious? ,they refers to pam's parents ,they refers to pam and paul ,pam's parents ,0 
+"pam's parents came home and found her having sex with her boyfriend, paul. they were embarrassed about it. ",what does they refer to? ,they refers to pam's parents ,they refers to pam and paul ,pam and paul ,1 
+"pam's parents came home and found her having sex with her boyfriend, paul. they were embarrassed about it. ",what were embarrassed? ,they refers to pam's parents ,they refers to pam and paul ,pam and paul ,1 
+dr. adams informed kate that she had retired and presented several options for future treatment. ,what does she refer to? ,she refers to dr. adams ,she refers to kate ,dr. adams ,0 
+dr. adams informed kate that she had retired and presented several options for future treatment. ,what had retired? ,she refers to dr. adams ,she refers to kate ,dr. adams ,0 
+dr. adams informed kate that she had cancer and presented several options for future treatment. ,what does she refer to? ,she refers to dr. adams ,she refers to kate ,kate ,1 
+dr. adams informed kate that she had cancer and presented several options for future treatment. ,what had cancer? ,she refers to dr. adams ,she refers to kate ,kate ,1 
+dan had to stop bill from toying with injured bird. he is very compassionate. ,what does he refer to? ,he refers to dan ,he refers to bill ,dan ,0 
+dan had to stop bill from toying with injured bird. he is very compassionate. ,what is very compassionate.? ,he refers to dan ,he refers to bill ,dan ,0 
+dan had to stop bill from toying with injured bird. he is very cruel. ,what does he refer to? ,he refers to dan ,he refers to bill ,bill ,1 
+dan had to stop bill from toying with injured bird. he is very cruel. ,what is very cruel.? ,he refers to dan ,he refers to bill ,bill ,1 
+"george got free tickets to play, but he gave them to eric, even though he was particularly eager to see it. ",what does he refer to? ,he refers to george ,he refers to eric ,george ,0 
+"george got free tickets to play, but he gave them to eric, even though he was particularly eager to see it. ",what was particularly eager? ,he refers to george ,he refers to eric ,george ,0 
+"george got free tickets to play, but he gave them to eric, because he was particularly eager to see it. ",what does he refer to? ,he refers to george ,he refers to eric ,eric ,1 
+"george got free tickets to play, but he gave them to eric, because he was particularly eager to see it. ",what was particularly eager? ,he refers to george ,he refers to eric ,eric ,1 
+"george got free tickets to play, but he gave them to eric, because he was not particularly eager to see it. ",what does he refer to? ,he refers to george ,he refers to eric ,george ,0 
+"george got free tickets to play, but he gave them to eric, because he was not particularly eager to see it. ",what was not particularly eager? ,he refers to george ,he refers to eric ,george ,0 
+jane gave joan candy because she wasn't hungry. ,what does she refer to? ,she refers to jane ,she refers to joan ,jane ,0 
+jane gave joan candy because she wasn't hungry. ,what wasn't hungry.? ,she refers to jane ,she refers to joan ,jane ,0 
+jane gave joan candy because she was hungry. ,what does she refer to? ,she refers to jane ,she refers to joan ,joan ,1 
+jane gave joan candy because she was hungry. ,what was hungry.? ,she refers to jane ,she refers to joan ,joan ,1 
+"i tried to paint a picture of an orchard, with lemons in lemon trees, but they came out looking more like light bulbs. ",what does they refer to? ,they refers to lemons ,they refers to lemon trees ,lemons ,0 
+"i tried to paint a picture of an orchard, with lemons in lemon trees, but they came out looking more like light bulbs. ",what came out? ,they refers to lemons ,they refers to lemon trees ,lemons ,0 
+"i tried to paint a picture of an orchard, with lemons in lemon trees, but they came out looking more like telephone poles. ",what does they refer to? ,they refers to lemons ,they refers to lemon trees ,lemon trees ,1 
+"i tried to paint a picture of an orchard, with lemons in lemon trees, but they came out looking more like telephone poles. ",what came out? ,they refers to lemons ,they refers to lemon trees ,lemon trees ,1 
+james asked robert for a favor but he was refused. ,what does he refer to? ,he refers to james ,he refers to robert ,james ,0 
+james asked robert for a favor but he was refused. ,what was refused.? ,he refers to james ,he refers to robert ,james ,0 
+james asked robert for a favor but he refused. ,what does he refer to? ,he refers to james ,he refers to robert ,robert ,1 
+james asked robert for a favor but he refused. ,what refused.? ,he refers to james ,he refers to robert ,robert ,1 
+kirilov ceded presidency to shatov because he was less popular. ,what does he refer to? ,he refers to kirilov ,he refers to shatov ,kirilov ,0 
+kirilov ceded presidency to shatov because he was less popular. ,what was less popular.? ,he refers to kirilov ,he refers to shatov ,kirilov ,0 
+kirilov ceded presidency to shatov because he was more popular. ,what does he refer to? ,he refers to kirilov ,he refers to shatov ,shatov ,1 
+kirilov ceded presidency to shatov because he was more popular. ,what was more popular.? ,he refers to kirilov ,he refers to shatov ,shatov ,1 
+emma did not pass ball to janie although she saw that she was open. ,what does she refer to? ,she refers to emma ,she refers to janie ,emma ,0 
+emma did not pass ball to janie although she saw that she was open. ,what saw? ,she refers to emma ,she refers to janie ,emma ,0 
+emma did not pass ball to janie although she was open. ,what does she refer to? ,she refers to emma ,she refers to janie ,janie ,1 
+emma did not pass ball to janie although she was open. ,what was open? ,she refers to emma ,she refers to janie ,janie ,1 
+i put butterfly wing on table and it broke. ,what does it refer to? ,it refers to butterfly wing ,it refers to table ,butterfly wing ,0 
+i put butterfly wing on table and it broke. ,what broke.? ,it refers to butterfly wing ,it refers to table ,butterfly wing ,0 
+i put heavy book on table and it broke. ,what does it refer to? ,it refers to heavy book ,it refers to table ,table ,1 
+i put heavy book on table and it broke. ,what broke.? ,it refers to heavy book ,it refers to table ,table ,1 
+madonna fired her trainer because she couldn't stand her boyfriend. ,what does she refer to? ,she refers to madonna ,she refers to trainer ,madonna ,0 
+madonna fired her trainer because she couldn't stand her boyfriend. ,what couldn't stand? ,she refers to madonna ,she refers to trainer ,madonna ,0 
+madonna fired her trainer because she slept with her boyfriend. ,what does she refer to? ,she refers to madonna ,she refers to trainer ,trainer ,1 
+madonna fired her trainer because she slept with her boyfriend. ,what slept? ,she refers to madonna ,she refers to trainer ,trainer ,1 
+madonna fired her trainer because she slept with her boyfriend. ,what does her refer to? ,her refers to madonna ,her refers to trainer ,madonna ,0 
+madonna fired her trainer because she slept with her boyfriend. ,what boyfriend? ,her refers to madonna ,her refers to trainer ,madonna ,0 
+madonna fired her trainer because she couldn't stand her boyfriend. ,what does her refer to? ,her refers to madonna ,her refers to trainer ,trainer ,1 
+madonna fired her trainer because she couldn't stand her boyfriend. ,what boyfriend? ,her refers to madonna ,her refers to trainer ,trainer ,1 
+carol believed that rebecca suspected that she had stolen watch. ,what does she refer to? ,she refers to carol ,she refers to rebecca ,carol ,0 
+carol believed that rebecca suspected that she had stolen watch. ,what had stolen watch.? ,she refers to carol ,she refers to rebecca ,carol ,0 
+carol believed that rebecca regretted that she had stolen watch. ,what does she refer to? ,she refers to carol ,she refers to rebecca ,rebecca ,1 
+carol believed that rebecca regretted that she had stolen watch. ,what had stolen watch.? ,she refers to carol ,she refers to rebecca ,rebecca ,1 
+this book introduced shakespeare to ovid; it was a major influence on his writing. ,what does his refer to? ,his refers to shakespeare ,his refers to ovid ,rebecca ,1 
+this book introduced shakespeare to ovid; it was a major influence on his writing. ,what writing.? ,his refers to shakespeare ,his refers to ovid ,rebecca ,1 
+this book introduced shakespeare to goethe; it was a major influence on his writing. ,what does his refer to? ,his refers to shakespeare ,his refers to goethe ,rebecca ,1 
+this book introduced shakespeare to goethe; it was a major influence on his writing. ,what writing.? ,his refers to shakespeare ,his refers to goethe ,rebecca ,1 
+this book introduced shakespeare to ovid; it was a fine selection of his writing. ,what does his refer to? ,his refers to shakespeare ,his refers to ovid ,rebecca ,1 
+this book introduced shakespeare to ovid; it was a fine selection of his writing. ,what writing.? ,his refers to shakespeare ,his refers to ovid ,rebecca ,1 
+this book introduced shakespeare to goethe; it was a fine selection of his writing. ,what does his refer to? ,his refers to shakespeare ,his refers to goethe ,rebecca ,1 
+this book introduced shakespeare to goethe; it was a fine selection of his writing. ,what writing.? ,his refers to shakespeare ,his refers to goethe ,rebecca ,1 
+"alice looked for her friend jade in crowd. since she always has good luck, alice spotted her quickly. ",what does she refer to? ,she refers to alice ,she refers to jade ,rebecca ,1 
+"alice looked for her friend jade in crowd. since she always has good luck, alice spotted her quickly. ",what always has good luck.? ,she refers to alice ,she refers to jade ,rebecca ,1 
+"alice looked for her friend jade in crowd. since she always wears a red turban, alice spotted her quickly. ",what does she refer to? ,she refers to alice ,she refers to jade ,rebecca ,1 
+"alice looked for her friend jade in crowd. since she always wears a red turban, alice spotted her quickly. ",what always wears a red turban? ,she refers to alice ,she refers to jade ,rebecca ,1 
+"during a game of tag, ethan chased luke because he was ""it"". ",what does he refer to? ,he refers to ethan ,he refers to luke ,rebecca ,1 
+"during a game of tag, ethan chased luke because he was ""it"". ","what was ""it"".? ",he refers to ethan ,he refers to luke ,rebecca ,1 
+"during a game of tag, ethan ran from luke because he was ""it"". ",what does he refer to? ,he refers to ethan ,he refers to luke ,rebecca ,1 
+"during a game of tag, ethan ran from luke because he was ""it"". ","what was ""it"".? ",he refers to ethan ,he refers to luke ,rebecca ,1 
+at loebner competition judges couldn't figure out which respondents were chatbots because they were so stupid. ,what does they refer to? ,they refers to judges ,they refers to chatbots ,rebecca ,1 
+at loebner competition judges couldn't figure out which respondents were chatbots because they were so stupid. ,what were so stupid.? ,they refers to judges ,they refers to chatbots ,rebecca ,1 
+at loebner competition judges couldn't figure out which respondents were chatbots because they were so advanced. ,what does they refer to? ,they refers to judges ,they refers to chatbots ,rebecca ,1 
+at loebner competition judges couldn't figure out which respondents were chatbots because they were so advanced. ,what were so advanced.? ,they refers to judges ,they refers to chatbots ,rebecca ,1 
+"user changed his password from ""grwqwu8jyc"" toã‚ ""willow-towered canopy huntertropic wrestles"" as it was easy to forget. ",what does it refer to? ,it refers to grwqwu8jyc ,it refers to willow-towered canopy huntertropic wrestles ,rebecca ,1 
+"user changed his password from ""grwqwu8jyc"" toã‚ ""willow-towered canopy huntertropic wrestles"" as it was easy to forget. ",what was easy to forget.? ,it refers to grwqwu8jyc ,it refers to willow-towered canopy huntertropic wrestles ,rebecca ,1 
