@@ -37,8 +37,8 @@ with open("UTDallasCSV.csv", "w", encoding='UTF8') as csv_file:
             q2 = "What" + clause + "?"
 
             answer1, answer2 = answerchoices.split(',')
-            option1 = answer1 + clause
-            option2 = answer2 + clause
+            option1 = pronoun + " refers to " + answer1
+            option2 = pronoun + " refers to " + answer2
 
             if answer == answer1:
                 answerbit = "0"
