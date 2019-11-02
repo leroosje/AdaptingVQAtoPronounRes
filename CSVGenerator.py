@@ -37,16 +37,19 @@ with open("UTDallasCSV.csv", "w", encoding='UTF8') as csv_file:
             q2 = "What" + clause + "?"
 
             answer1, answer2 = answerchoices.split(',')
-            option1 = pronoun + " refers to " + answer1
-            option2 = pronoun + " refers to " + answer2
+            option1a = pronoun + " refers to " + answer1
+            option2a = pronoun + " refers to " + answer2
+
+            option1b = answer1 + clause
+            option2b = answer2 + clause
 
             if answer == answer1:
                 answerbit = "0"
             if answer == answer2:
                 answerbit = "1"
 
-            row1 = [question, q1, option1, option2, answer, answerbit]
-            row2 = [question, q2, option1, option2, answer, answerbit]
+            row1 = [question, q1, option1a, option2a, answer, answerbit]
+            row2 = [question, q2, option1b, option2b, answer, answerbit]
 
             j = 0
             for item in row1:

@@ -37,23 +37,32 @@ with open("WinogradChallengeCSV.csv", "w", encoding='UTF8') as csv_file:
             if correctanswer == 'A':
                 answer = answer1
                 answerbit = 0
+            if correctanswer == 'A.':
+                answer = answer1
+                answerbit = 0
             if correctanswer == 'B':
+                answer = answer2
+                answerbit = 1
+            if correctanswer == 'B.':
                 answer = answer2
                 answerbit = 1
         if i % 7 == 0: #Totally arbitrary condition to print questions.
             q1 = "What does " + pronoun + " refer to?"
             q2 = "What" + clause[len(pronoun):] + "?"
 
-            option1 = pronoun + " refers to " + answer1
-            option2 = pronoun + " refers to " + answer2
+            option1a = pronoun + " refers to " + answer1
+            option2a = pronoun + " refers to " + answer2
+
+            option1b = answer1 + clause[len(pronoun):]
+            option2b = answer2 + clause[len(pronoun):]
 
             if answer == answer1:
                 answerbit = "0"
             if answer == answer2:
                 answerbit = "1"
 
-            row1 = [question, q1, option1, option2, answer, answerbit]
-            row2 = [question, q2, option1, option2, answer, answerbit]
+            row1 = [question, q1, option1a, option2a, answer, answerbit]
+            row2 = [question, q2, option1b, option2b, answer, answerbit]
 
             j = 0
             for item in row1:
