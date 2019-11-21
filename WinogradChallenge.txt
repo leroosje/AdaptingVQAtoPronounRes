@@ -26,7 +26,7 @@ the suitcase
 Correct Answer: B.
 Source: Hector Levesque
 
-Joan made sure to thank Susan for all the help she had recieved.
+Joan made sure to thank Susan for all the help she had received.
 Snippet: she had received
 Joan
 Susan
@@ -363,14 +363,14 @@ Correct Answer: B
 Source: Ernest Davis
 
 The painting in Mark's living room shows an oak tree. It is to the right of the bookcase.
-Snippet: it is to the right
+Snippet: It is to the right
 The painting
 The oak tree
 Correct Answer: A
 Source: Ernest Davis
 
 The painting in Mark's living room shows an oak tree. It is to the right of a house.
-Snippet: it is to the right
+Snippet: It is to the right
 The painting
 The oak tree
 Correct Answer: B
@@ -1259,14 +1259,14 @@ Correct Answer: B
 Source: Ernest Davis
 
 The police arrested all of the gang members. They were trying to stop the drug trade in the neighborhood.
-Snippet: They were trying to stop the drug trade.
+Snippet: They were trying to stop the drug trade
 The police
 The gang members
 Correct Answer: A
 Source: Ernest Davis
 
 The police arrested all of the gang members. They were trying to run the drug trade in the neighborhood.
-Snippet: They were trying to run the drug trade.
+Snippet: They were trying to run the drug trade
 The police
 The gang members
 Correct Answer: B
@@ -1706,7 +1706,7 @@ The boy
 Correct Answer: B
 Source: David Bender
 
-The woman held the girl against her chest
+The woman held the girl against her chest.
 Snippet: her chest.
 The woman
 The girl
@@ -1938,7 +1938,7 @@ Correct Answer: A.
 Source: Ernest Davis (coming out of a Facebook discussion with Michael Witbrock)
 
 Alice looked for her friend Jade in the crowd. Since she always has good luck, Alice spotted her quickly.
-Snippet: she always has good luck.
+Snippet: she always has good luck
 Alice
 Jade
 Correct Answer: A.
