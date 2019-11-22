@@ -19,7 +19,7 @@ formattedfile = file.read().splitlines()
 
 with open("UTDallasCSV.csv", "w", encoding='UTF8') as csv_file:
     writer = csv.writer(csv_file, delimiter=',')
-    writer.writerow(["Knowledge Base", "Question", "Option 1", "Option 2", "Actual Answer", "Bit Representation"])
+    writer.writerow(["Knowledge Base", "Question", "Option 1", "Option 2", "Actual Answer", "Bit Representation", "Opt1", "Opt2"])
     for line in formattedfile:
         if i % 5 == 1:
             question = line
@@ -48,8 +48,8 @@ with open("UTDallasCSV.csv", "w", encoding='UTF8') as csv_file:
             if answer == answer2:
                 answerbit = "1"
 
-            row1 = [question, q1, option1a, option2a, answer, answerbit]
-            row2 = [question, q2, option1b, option2b, answer, answerbit]
+            row1 = [question, q1, option1a, option2a, answer, answerbit, answer1, answer2]
+            row2 = [question, q2, option1b, option2b, answer, answerbit, answer1, answer2]
 
             j = 0
             for item in row1:
