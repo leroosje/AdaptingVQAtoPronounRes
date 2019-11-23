@@ -10,8 +10,11 @@
 #These question will be output to a text file, with each question on a seperate line.
 #No white space between question pairs.
 import csv
-import sys
+import nltk
 import select
+
+nltk.download('punkt')
+nltk.download('averaged_perceptron_tagger')
 
 i = 1
 file = open("WinogradChallenge.txt", "r")
@@ -26,7 +29,13 @@ with open("WinogradChallengeCSV.csv", "w", encoding='UTF8') as csv_file:
         if i % 7 == 2:
             clause = line
             clause = clause[9:]
-            pronoun = clause.split()[0]
+            tokenized = nltk.word_tokenize(clause)
+            pospairs = nltk.pos_tag(tokenized)
+            for pair in pospairs:
+                if pair[1] == "PRP":
+                    pronoun = pair[0]
+                if pair[1] == "PRP$":
+                    pronoun = pair[0]
         if i % 7 == 3:
             answer1 = line
         if i % 7 == 4:
